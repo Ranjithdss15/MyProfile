@@ -37,7 +37,7 @@
 <img src="https://media.giphy.com/media/ej6hUW4OqJe2R1nh32/giphy.gif" width="25px"> I'm a self taught Guitarist and currently focusing on lead.   
 <img src="https://media.giphy.com/media/hWobKVb4OY9cxYLcAn/giphy.gif" width="25px"> I have a great love towards music. A.R.Rahman is always my inspiration.  
 <img src="https://media.giphy.com/media/j3nq3JkXp0bkFXcNlE/giphy.gif" width="25px"> I love Sound Designing and Keyboard Programming. I have Composed and Music Directed short films.  
-<img src="https://media.giphy.com/media/lz7KLyH0lNKLaIoFNO/giphy.gif" height="25px" style="padding-right: 7px;">&nbsp@nbsp I love to travel. One day I hope to visit Paris.  
+<img src="https://media.giphy.com/media/1Yd8uhaqghxnKPxqbC/giphy.gif" height="25px" style="padding-right: 7px;"> I love to travel. One day I hope to visit Paris.  
 
 
 #### Checkout some of my tracks from SoundCloud
