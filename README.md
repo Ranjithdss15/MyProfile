@@ -1,4 +1,12 @@
-# Hi!! Am Cami Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi There!! I am Cami Ranjith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+
+[![Twitter: Ranjith](https://img.shields.io/twitter/follow/Ranjithdss?style=social)](https://twitter.com/Ranjithdss) 
+[![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) 
+![Instagram](https://img.shields.io/badge/-Instagram-pink?&logo=Instagram&link=https://www.instagram.com/ranjith_doss/) 
+![Facebook](https://img.shields.io/badge/-Facebook-8fd8ff?&logo=Facebook&link=https://www.facebook.com/ranjith.doss/)  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/) 
+
 
 
 ## 📖 About Me
@@ -7,7 +15,8 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs Developer   
 ⚛️ I'm currently learning ReactJS   
 💻 I love exploring new tech stack    
-💬 Ask me anything about the technologies, I am happy to help!   
+💬 Ask me anything about the technologies, we can brainstrom and I am happy to help!   
+🙋‍♂️ I love to make friends so if you want to say hi, I'll be happy to meet you more!
 
 ## Languages and Tools:
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900) 
@@ -23,6 +32,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
 
 
+
+
+
+
+#### I Love to do Stuffs in Cloud  
 
 
 
