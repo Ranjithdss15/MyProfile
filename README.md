@@ -52,9 +52,9 @@
 ---
 #### GitHub Stat
 
-[![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithdss15)](https://github.com/anuraghazra/github-readme-stats)
+[![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithdss15)](https://github.com/ranjithdss15)
 
-I will try contributing more to OpenSource. 
+I will work to contribute more to OpenSource. 
 
 
 
