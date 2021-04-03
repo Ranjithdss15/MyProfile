@@ -14,7 +14,7 @@
 ☁️ I am a Senior CloudOps and DevOps Engineer   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="15px"> I am self taught NodeJs Developer.   
 🛠️ I love developing tools to make DevOps simpler.  
-👐 I hope to contribute more to opensource. That's definitely in my bucketlist.  
+👐🏻 I hope to contribute more to opensource. That's definitely in my bucketlist.  
 ⚛️ I'm currently learning ReactJS.      
 💻 I love exploring new tech stack.        
 💬 Ask me anything about the technologies, we can brainstrom and I am happy to help!   
