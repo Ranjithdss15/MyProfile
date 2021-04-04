@@ -1,11 +1,12 @@
 ## Hi There!! I am Cami Ranjith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="90px" align="right">
  
 
 [![Twitter: Ranjith](https://img.shields.io/twitter/follow/Ranjithdss?style=social)](https://twitter.com/Ranjithdss) 
 [![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?&logo=Instagram&link=https://www.instagram.com/ranjith_doss/)](https://www.instagram.com/ranjith_doss/) 
 [![Facebook](https://img.shields.io/badge/-Facebook-8fd8ff?&logo=Facebook&link=https://www.facebook.com/ranjith.doss/)](https://www.facebook.com/ranjith.doss/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/)](https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/camillus-ranjith-dos-p-42b197b9/)](https://www.linkedin.com/in/camillus-ranjith-paul/)
 
 
 
@@ -43,7 +44,7 @@
 
 
 #### Checkout some of my tracks from SoundCloud
-![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/) 
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-orange?&logo=SoundCloud&logoColor=white&style=for-the-badge&link=https://soundcloud.com/ranjith_doss/)](https://soundcloud.com/ranjith_doss/)  
 
 
 #### Thanks for your time. Hope to see you soon.
