@@ -1,7 +1,7 @@
 ## Hi There!! I am Cami Ranjith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="90px" align="right"> -->
-<a href="https://www.credly.com/badges/0af576ff-f6f0-48db-9ddc-b0ec73234906?source=linked_in_profile" alt="AWS Certified Solution Architect - Associate" src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="90px" align="right">
- 
+<a href="https://www.credly.com/badges/0af576ff-f6f0-48db-9ddc-b0ec73234906?source=linked_in_profile" alt="AWS Certified Solution Architect - Associate">
+    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="90px" href="https://www.credly.com/badges/0af576ff-f6f0-48db-9ddc-b0ec73234906?source=linked_in_profile">
+</a>
 
 [![Twitter: Ranjith](https://img.shields.io/twitter/follow/Ranjithdss?style=social)](https://twitter.com/Ranjithdss) 
 [![GitHub: Ranjith](https://img.shields.io/github/followers/ranjithdss15?&style=social)](https://twitter.com/Ranjithdss) 
